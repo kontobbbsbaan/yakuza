@@ -1,5 +1,5 @@
-global.owner = ["123@s.whatsapp.net"]
-global.multiPrefix = false
+global.owner = ["6283833694338@s.whatsapp.net"]
+global.multiPrefix = true
 global.autoRead = true
 global.messConf = {
   prefix: "!",
@@ -10,8 +10,8 @@ global.allow = {
   nsfw: true
 }
 global.stickerInfo = {
-  author: "© Bot",
-  pack: ""
+  author: "©Ɏåkµzå M∂",
+  pack: "Ɏåкµzå м∂"
 }
 global.gameTime = 60
 // Welcome option:
